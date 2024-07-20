@@ -1,7 +1,7 @@
 # Hola, mi nombre es Fran Prada 👋
-### Estudiante de Desarrollo de Aplicaciones Multiplataforma
+### Desarrollador de Aplicaciones Multiplataforma
 
-¡Hola! Mi nombre Fran Prada. Soy estudiante del Instituto Técnologico Pablo de la Torre.🏫
+¡Hola! Mi nombre Fran Prada. Soy desarrollador junior.✨
 
 Tengo gran interés tanto en UX y UI como en Backend. Actualmente estudio react js, python, java, javascript para ser un excelente desarrollador Full-Stack
 
